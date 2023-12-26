@@ -1,0 +1,4 @@
+enum MemberType {
+  noneMember,
+  appMember,
+}
