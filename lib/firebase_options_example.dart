@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAbDhxo-DlaFrvlNbdEN5KpGndyOeMX2s8',
-    appId: '1:776452489141:android:c6a52e031db9a69576a3fc',
-    messagingSenderId: '776452489141',
-    projectId: 'smart-fit-5ab9e',
-    storageBucket: 'smart-fit-5ab9e.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDDLXOYPDhtJ-mQqnqy3WblJO6JVdcaAXk',
-    appId: '1:776452489141:ios:3572e582d2128a3f76a3fc',
-    messagingSenderId: '776452489141',
-    projectId: 'smart-fit-5ab9e',
-    storageBucket: 'smart-fit-5ab9e.appspot.com',
-    iosClientId: '776452489141-f2gpphah55rrupajj2nvk5h5jrkmh7eb.apps.googleusercontent.com',
-    iosBundleId: 'com.example.smartFit',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
